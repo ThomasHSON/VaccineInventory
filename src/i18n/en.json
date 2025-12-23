@@ -1,0 +1,68 @@
+{
+  "header": {
+    "title": "高雄榮民總醫院",
+    "title_en": "Kaohsiung Veterans General Hospital",
+    "bookAppointment": "Appointment",
+    "languageSwitch": "English",
+    "smartVaxCabinet": "RFID Cloud Vaccine Smart Cabinet",
+    "smartVaxCabinetEn": ""
+  },
+  "tabs": {
+    "inventory": "Vaccine Inventory Overview",
+    "search": "Vaccine Inventory Search"
+  },
+  "search": {
+    "placeholder": "Search vaccines...",
+    "button": "Search",
+    "advancedSearch": "Advanced Search",
+    "confirm": "Confirm"
+  },
+  "filters": {
+    "subsidized": "Public",
+    "selfPay": "Self-pay",
+    "healthInsurance": "Health Insurance"
+  },
+  "vaccines": {
+    "hib": "Haemophilus Influenzae Type B",
+    "meningococcal": "Meningococcal",
+    "pneumococcal": "Pneumococcal",
+    "tetanusToxoid": "Tetanus Toxoid",
+    "diphtheria": "Diphtheria",
+    "tetanus": "Tetanus",
+    "pertussis": "Pertussis",
+    "japaneseEncephalitis": "Japanese Encephalitis",
+    "influenza": "Influenza",
+    "hepatitisB": "Hepatitis B",
+    "hepatitisA": "Hepatitis A",
+    "measles": "Measles",
+    "mumps": "Mumps",
+    "rubella": "Rubella",
+    "rotavirus": "Rotavirus",
+    "varicella": "Varicella",
+    "shingles": "Shingles",
+    "hpv": "Human Papillomavirus",
+    "covid19": "COVID-19",
+    "mpox": "Mpox",
+    "rsv": "Respiratory Syncytial Virus",
+    "polio": "Polio",
+    "bcg": "BCG"
+  },
+  "table": {
+    "chineseName": "Chinese Name",
+    "englishName": "English Name",
+    "type": "Type",
+    "description": "Description",
+    "inventory": "Inventory",
+    "adequate": "Well Stocked",
+    "scarce": "Scarce",
+    "outOfStock": "Out of Stock",
+    "units": "doses"
+  },
+  "noData": "No data available",
+  "note": "Displayed vaccine inventory is for reference only",
+  "loading": "Loading...",
+  "footer": {
+    "hospital": "Kaohsiung Veterans General Hospital - RFID Cloud Vaccine Smart Cabinet Management System",
+    "copyright": "© 2026 All Rights Reserved"
+  }
+}

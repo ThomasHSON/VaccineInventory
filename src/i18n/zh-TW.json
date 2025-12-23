@@ -1,0 +1,68 @@
+{
+  "header": {
+    "title": "高雄榮民總醫院",
+    "title_en": "Kaohsiung Veterans General Hospital",
+    "bookAppointment": "預約施打",
+    "languageSwitch": "繁體中文",
+    "smartVaxCabinet": "RFID 雲端疫苗智控櫃",
+    "smartVaxCabinetEn": "SmartVax Cloud Cabinet"
+  },
+  "tabs": {
+    "inventory": "疫苗庫存量總覽",
+    "search": "疫苗庫存量查詢"
+  },
+  "search": {
+    "placeholder": "搜尋疫苗...",
+    "button": "搜尋",
+    "advancedSearch": "進階搜尋",
+    "confirm": "確認"
+  },
+  "filters": {
+    "subsidized": "公費",
+    "selfPay": "自費",
+    "healthInsurance": "健保"
+  },
+  "vaccines": {
+    "hib": "b型嗜血桿菌",
+    "meningococcal": "流行性腦脊髓膜炎",
+    "pneumococcal": "肺炎鏈球菌",
+    "tetanusToxoid": "破傷風類毒素",
+    "diphtheria": "白喉",
+    "tetanus": "破傷風",
+    "pertussis": "百日咳",
+    "japaneseEncephalitis": "日本腦炎",
+    "influenza": "流感疫苗",
+    "hepatitisB": "B型肝炎",
+    "hepatitisA": "A型肝炎",
+    "measles": "麻疹",
+    "mumps": "腮腺炎",
+    "rubella": "德國麻疹",
+    "rotavirus": "輪狀病毒",
+    "varicella": "水痘",
+    "shingles": "帶狀疱疹",
+    "hpv": "人類乳突病毒",
+    "covid19": "COVID-19(新冠肺炎)",
+    "mpox": "M痘疫苗",
+    "rsv": "呼吸道融合病毒",
+    "polio": "小兒麻痺",
+    "bcg": "卡介苗"
+  },
+  "table": {
+    "chineseName": "中文藥名",
+    "englishName": "英文藥名",
+    "type": "公/自費",
+    "description": "中文說明",
+    "inventory": "庫存量",
+    "adequate": "供貨充足",
+    "scarce": "稀少",
+    "outOfStock": "暫無庫存",
+    "units": "劑"
+  },
+  "noData": "暫無數據",
+  "note": "公費疫苗庫存量僅供參考",
+  "loading": "載入中...",
+  "footer": {
+    "hospital": "高雄榮民總醫院 - RFID 雲端疫苗智控櫃管理系統",
+    "copyright": "© 2026 All Rights Reserved"
+  }
+}
